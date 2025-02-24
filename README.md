@@ -4,9 +4,9 @@ I’m Kinsalvan
 
 I’m interested in coding and developement in the fields of:
 
-webdev
-game mechanics
-engineering robotics/machinery
+- webdev
+- game mechanics
+- engineering robotics/machinery
 
 iv'e so far started coding full time since December 2023. 
 prior to this i was a chemical engineer in the field of organics, mining, agricultural and machine/pilot-plant manufacturing.
